@@ -1,7 +1,7 @@
 [
     {   
         "language": "da",
-        "name": "Danske buzzwords i CS/IT",
+        "name": "Danish buzzwords in CS/IT",
         "tags": ["Computer Science", "IT"],
         "file": "collections/da_cs.json"
     }
