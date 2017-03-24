@@ -4,5 +4,11 @@
         "name": "Danish buzzwords in CS/IT",
         "tags": ["Computer Science", "IT"],
         "file": "collections/da_cs.json"
+    },
+    {   
+        "language": "da",
+        "name": "English buzzwords in CS/IT",
+        "tags": ["Computer Science", "IT"],
+        "file": "collections/en_cs.json"
     }
 ]   
